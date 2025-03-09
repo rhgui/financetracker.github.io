@@ -14,6 +14,22 @@ This is a personal finance tracker application. The app helps users to track the
 
 - Light and dark mode support
 
+## Preview
+
+![image](https://github.com/user-attachments/assets/05e737ad-2bce-41de-b8e9-cdab08540097)
+
+![image](https://github.com/user-attachments/assets/9017abea-5d84-4171-8d87-a76ebca2d2b6)
+
+![image](https://github.com/user-attachments/assets/2e78af74-628f-43c8-a64f-1c2667c85547)
+
+![image](https://github.com/user-attachments/assets/fd7679a1-65ef-4600-ab5d-8d12a66e067d)
+
+![image](https://github.com/user-attachments/assets/fdf967d7-01fd-488d-a092-b48ebda10dbc)
+
+![image](https://github.com/user-attachments/assets/8d495532-389e-4d59-aade-745c781e8eba)
+
+![image](https://github.com/user-attachments/assets/f2b24bc1-7b0c-4b78-b761-06c4705dcd58)
+
 ## The URL at which the application is deployed
 
 https://rhgui.github.io/financetracker.github.io/
